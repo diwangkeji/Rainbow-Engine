@@ -1,4 +1,5 @@
 # Rainbow Engine
+## 拥抱开源托管在此，若网站无法访问，可到此直接下载。
 #### 提供彩虹引擎、架设教程、说明书。
 #### 仅供娱乐、研究、学习之用，请于下载24小时删除。
 ##### 独立端教程：https://github.com/diwangkeji/Rainbow_Engine/wiki/1_dljc
