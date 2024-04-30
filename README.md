@@ -5,14 +5,15 @@
 ### 仅供娱乐、研究、学习之用，请于下载24小时删除。
 
 
-1. [独立端教程](https://github.com/diwangkeji/chdown/wiki/1_dljc)
-2. [独立端引擎](https://github.com/diwangkeji/chdown/wiki/2_dlyq)
-3. [盛大端教程](https://github.com/diwangkeji/chdown/wiki/3_sdjc)
-4. [盛大端引擎](https://github.com/diwangkeji/chdown/wiki/4_sdyq)
-5. [enigma说明](https://github.com/diwangkeji/chdown/wiki/5_eg)
-6. [微端节点说明](https://github.com/diwangkeji/chdown/wiki/6_dlwd)
-7. [独立端问题汇总](https://github.com/diwangkeji/chdown/wiki/7_dlfaq)
-8. [盛大端问题汇总](https://github.com/diwangkeji/chdown/wiki/8_sdfaq)
-9. [mysql异地保存](https://github.com/diwangkeji/chdown/wiki/9_mysqlsave)
-10. [mysql优化说明](https://github.com/diwangkeji/chdown/wiki/10_mysqlyh)
-
+* 独立端
+  * [独立端教程](https://github.com/diwangkeji/chdown/wiki/1_dljc)
+  * [独立端引擎](https://github.com/diwangkeji/chdown/wiki/2_dlyq)
+  * [微端节点说明](https://github.com/diwangkeji/chdown/wiki/6_dlwd)
+  * [独立端问题汇总](https://github.com/diwangkeji/chdown/wiki/7_dlfaq)
+  * [mysql异地保存](https://github.com/diwangkeji/chdown/wiki/9_mysqlsave)
+  * [mysql优化说明](https://github.com/diwangkeji/chdown/wiki/10_mysqlyh)
+* 盛大端
+   * [盛大端教程](https://github.com/diwangkeji/chdown/wiki/3_sdjc)
+   * [盛大端引擎](https://github.com/diwangkeji/chdown/wiki/4_sdyq)
+   * [盛大端问题汇总](https://github.com/diwangkeji/chdown/wiki/8_sdfaq)
+* [Enigma使用说明](https://github.com/diwangkeji/chdown/wiki/5_eg)
