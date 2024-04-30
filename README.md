@@ -3,7 +3,7 @@
 开源地址：[https://github.com/diwangkeji/chdown/wiki](https://github.com/diwangkeji/chdown/wiki)
 ### 这里提供彩虹引擎、架设教程、说明书。
 ### 仅供娱乐、研究、学习之用，请于下载24小时删除。
-'分割线'
+---  
 - 独立端
   * [独立端教程](https://github.com/diwangkeji/chdown/wiki/1)
   * [独立端引擎](https://github.com/diwangkeji/chdown/wiki/2)
