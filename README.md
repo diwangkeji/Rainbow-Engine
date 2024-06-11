@@ -14,6 +14,7 @@
 - 彩虹盛大端
    * [盛大端教程](https://github.com/diwangkeji/chdown/wiki/7)
    * [盛大端引擎](https://github.com/diwangkeji/chdown/wiki/8)
-   * [盛大端问题汇总](https://github.com/diwangkeji/chdown/wiki/9)
+   * [凤凰登录器](https://github.com/diwangkeji/chdown/wiki/9)
+   * [盛大端问题汇总](https://github.com/diwangkeji/chdown/wiki/10)
 - Enigma
-   * [enigma使用说明](https://github.com/diwangkeji/chdown/wiki/10)
+   * [Enigma使用说明](https://github.com/diwangkeji/chdown/wiki/11)
