@@ -1,9 +1,8 @@
 # Rainbow Engine Download 彩虹引擎下载
-### 资源现已托管wiki、github，若官网无法访问，可到以下地址下载。
+### 您可访问以下地址进行下载。
  地址①：https://wiki.ch3.top/docs/chdown/home<br/>
  地址②：[https://github.com/diwangkeji/chdown/wiki](https://github.com/diwangkeji/chdown/wiki)
 ### 这里提供彩虹引擎、架设教程、引擎说明书。
-### 仅供娱乐、研究、学习之用，请于下载24小时删除。
 ---  
 - 彩虹独立端
   * [独立端教程](https://github.com/diwangkeji/chdown/wiki/1)
